@@ -1,0 +1,14 @@
+{
+  "test1": {
+    "goingfrom": "Banglore",
+    "goingto": "New York",
+    "date": "30/10/2023",
+    "stops": "1 Stop"
+  },
+  "test2": {
+    "goingfrom": "Mumbai",
+    "goingto": "New York",
+    "date": "30/08/2023",
+    "stops": "2 Stop"
+  }
+}

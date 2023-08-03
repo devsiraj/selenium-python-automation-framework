@@ -1,0 +1,7 @@
+---
+test1:
+  goingfrom: Hyderabad
+  goingto: Mumbai
+  date: 30/08/2023
+  stops: 1 Stop
+...
